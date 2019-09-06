@@ -19,7 +19,7 @@ namespace Calculator.Test.Unit
             uut = new Calculator();
         }
        
-         Jeg har også en DOAopgaver iaftensom skal være klar imorgen 
+
 
         [Test]
         public void Add_Add2And4_Returns6()
