@@ -1,0 +1,12 @@
+C:\Users\fred\source\repos\Calculator\Calculator.Test.Unit\bin\Debug\Calculator.Test.Unit.dll
+C:\Users\fred\source\repos\Calculator\Calculator.Test.Unit\bin\Debug\Calculator.Test.Unit.pdb
+C:\Users\fred\source\repos\Calculator\Calculator.Test.Unit\bin\Debug\Calculator.dll
+C:\Users\fred\source\repos\Calculator\Calculator.Test.Unit\bin\Debug\nunit.framework.dll
+C:\Users\fred\source\repos\Calculator\Calculator.Test.Unit\bin\Debug\Calculator.pdb
+C:\Users\fred\source\repos\Calculator\Calculator.Test.Unit\bin\Debug\nunit.framework.pdb
+C:\Users\fred\source\repos\Calculator\Calculator.Test.Unit\bin\Debug\nunit.framework.xml
+C:\Users\fred\source\repos\Calculator\Calculator.Test.Unit\obj\Debug\Calculator.Test.Unit.csprojAssemblyReference.cache
+C:\Users\fred\source\repos\Calculator\Calculator.Test.Unit\obj\Debug\Calculator.Test.Unit.csproj.CoreCompileInputs.cache
+C:\Users\fred\source\repos\Calculator\Calculator.Test.Unit\obj\Debug\Calculator.Test.Unit.csproj.CopyComplete
+C:\Users\fred\source\repos\Calculator\Calculator.Test.Unit\obj\Debug\Calculator.Test.Unit.dll
+C:\Users\fred\source\repos\Calculator\Calculator.Test.Unit\obj\Debug\Calculator.Test.Unit.pdb
